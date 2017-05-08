@@ -55,7 +55,7 @@ Before running the application, you will want to configure your environment so t
 
 To run the application, simply execute `dotnet run` on the command line. This will build both the backend and frontend and then start a web server up at `http://localhost:5000` (by default). Simply visit this address using your favorite web browser to see the application running.
 
-## Running The Project Using Visual Studio 2017
+## Running This Project Using Visual Studio 2017
 
 If you are on Windows, you have the option to use Visual Studio 2017 for your ASP.NET development. Simply use VS to open the .csproj file provided in this repository. Once you've done that, the IDE will take care of restoring the .NET and NPM dependencies for you.
 
