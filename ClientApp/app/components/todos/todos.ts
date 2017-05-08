@@ -1,3 +1,3 @@
-export class TodoScreen {
+export class TodosScreen {
 
 }

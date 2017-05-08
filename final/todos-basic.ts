@@ -1,4 +1,4 @@
-export class TodoScreen {
+export class TodosScreen {
   title: "Todos";
   todos: Todo[] = [];
   newTodoDescription: string;
